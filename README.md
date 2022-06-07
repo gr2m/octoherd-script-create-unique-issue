@@ -5,6 +5,8 @@
 [![@latest](https://img.shields.io/npm/v/octoherd-script-create-unique-issue.svg)](https://www.npmjs.com/package/octoherd-script-create-unique-issue)
 [![Build Status](https://github.com/gr2m/octoherd-script-create-unique-issue/workflows/Test/badge.svg)](https://github.com/gr2m/octoherd-script-create-unique-issue/actions?query=workflow%3ATest+branch%3Amain)
 
+The script checks all open issues and creates a new one unless an open issue with the same title already exists.
+
 ## Usage
 
 Minimal usage
